@@ -19,7 +19,7 @@ function Header() {
         </Link>
         <a
           className="text-gray-700 hover:text-gray-800 text-base font-Nunito"
-          href="https://github.com/Lruihao/CoverView"
+          href="https://github.com/pang-xf"
           rel="noreferrer"
           target="_blank"
         >
